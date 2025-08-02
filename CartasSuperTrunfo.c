@@ -84,7 +84,7 @@
     printf("Nome da Cidade: %s\n", nome1);
     printf("População: %d\n", pop1);
     printf("Area: %.2f em km²\n", area1);
-    printf("PIB %2.f\n", pib1);
+    printf("PIB %.2f\n", pib1);
     printf("Numero de Pontos Turísticos: %d\n", npt1);
 
     printf("\n");
@@ -95,7 +95,7 @@
     printf("Nome da Cidade: %s\n", nome2);
     printf("População: %d\n", pop2);
     printf("Area: %.2f em km²\n", area2);
-    printf("PIB %2.f\n", pib2);
+    printf("PIB %.2f\n", pib2);
     printf("Numero de Pontos Turísticos: %d\n", npt2);
 
     return 0;
